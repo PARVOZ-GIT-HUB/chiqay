@@ -1,0 +1,1432 @@
+.birinchi {
+   
+    .navbar-light .navbar-nav .nav-link {
+        color: #333333;
+        font-weight: 500;
+    }
+
+    nav {
+        padding-bottom: 5px;
+        border-bottom: 2px solid #e9e9e9;
+        .navbar-toggler {
+            border-color: transparent;
+        }
+        .menular {
+            li {
+                margin-left: 30px;
+            }
+        }
+        form {
+            button {
+                background-color: #4bb543;
+                filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+                color: #ffffff;
+            }
+        }
+    }
+    .malumot {
+        .ikkinchi {
+            display: flex;
+            margin-top: 50px;
+            width: 80%;
+            background: #ffffff;
+            box-shadow: 0px 24px 70px rgba(0, 64, 48, 0.2);
+            justify-content: space-between;
+            height: 22rem;
+            .left {
+                width: 50%;
+                padding-left: 15px;
+                h4 {
+                    font-size: 22px;
+                    color: #333333;
+                    margin-top: 25px;
+                }
+                p {
+                    margin-top: 30px;
+                    font-size: 18px;
+                }
+                .batafsil {
+                    margin-top: 10px;
+                    padding: 5px 50px;
+                }
+                .karam {
+                    transform: translateX(-80px);
+
+                    img {
+                        width: 150px;
+                    }
+                }
+            }
+            .right {
+                .gul {
+                    width: 350px;
+                }
+            }
+        }
+    }
+
+    .bizning_mahsulot {
+        margin-top: 90px;
+        .uchinchi {
+            h3 {
+                text-align: center;
+            }
+            p {
+                text-align: center;
+                width: 60%;
+                font-size: 14px;
+                margin: 15px auto;
+            }
+            .qator_1 {
+                background-image: url(./images/Mask.png);
+                background-repeat: no-repeat;
+                background-size: 400px;
+                background-position-y: 140px;
+                .ustun_1 {
+                    padding: 0;
+                    background-color: #ffffff;
+                    width: 100px;
+                    border-radius: 5px;
+                    height: 250px;
+                    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+                    .matn_1 {
+                        display: flex;
+                        .matn_1-quti {
+                            height: 250px;
+                            width: 230px;
+                        }
+                        .matn_1-content {
+                            transform: translate(-10px, 25%);
+                            h3 {
+                                line-height: 30px;
+                                font-weight: bold;
+                                font-size: 30px;
+                                letter-spacing: 1px;
+                                font-family: serif;
+                            }
+                            p:nth-child(2) {
+                                color: rgba(0, 0, 0, 0.5);
+                                font-weight: 500;
+                                width: 120px;
+                            }
+                            p:nth-child(3) {
+                                color: #03a803;
+                                font-size: 25px;
+                                font-weight: 700;
+                                transform: translateY(-15px);
+                                width: 120px;
+                                span {
+                                    color: black;
+                                    font-weight: 400;
+                                    font-size: 16px;
+                                }
+                            }
+                        }
+                    }
+                }
+                .ustun_2 {
+                    .qator_2 {
+                        padding-left: 55px;
+                        padding-right: 55px;
+                        .ustun_3 {
+                            background-color: #ffffff;
+                            box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+                            height: 120px;
+                            padding: 0;
+                            .matn_2 {
+                                display: flex;
+                                justify-content: space-between;
+                                .matn_2-quti {
+                                    height: 120px;
+                                }
+                                .matn_2-content {
+                                    transform: translate(-30%, 10%);
+                                    h3 {
+                                        font-weight: bold;
+                                        font-size: 30px;
+                                        letter-spacing: 1px;
+                                        font-family: serif;
+                                        margin: 0;
+                                    }
+                                    p:nth-child(2) {
+                                        color: rgba(0, 0, 0, 0.5);
+                                        font-weight: 500;
+                                        width: 120px;
+                                        margin: 0;
+                                    }
+                                    p:nth-child(3) {
+                                        color: #03a803;
+                                        font-size: 25px;
+                                        font-weight: 700;
+                                        width: 120px;
+                                        margin: 0;
+
+                                        span {
+                                            color: black;
+                                            font-weight: 400;
+                                            font-size: 16px;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    .qator_3 {
+                        margin-top: 20px;
+                        margin-left: 40px;
+                        .ustun_4 {
+                            height: 120px;
+                            border-radius: 5px;
+                            overflow: hidden;
+                            background-image: url(./images/quti.png);
+                            background-size: 130px;
+                            background-repeat: no-repeat;
+                            box-shadow: 0px 4px 4px 0px 4px 4px rgba(0, 0, 0, 0.25);
+                            .aylana_1 {
+                                background-color: white;
+                                width: 170px;
+                                height: 111px;
+                                clip-path: circle(94.5% at 95% 100%);
+                                h5 {
+                                    margin-bottom: 0;
+                                    margin-left: 55px;
+                                    padding-top: 40px;
+                                    font-weight: 700;
+                                    font-size: 18px;
+                                    transform: translateY(-10px);
+                                }
+                                p:nth-child(2) {
+                                    margin-top: 0;
+                                    margin-bottom: 0px;
+                                    margin-left: 45px;
+                                    color: rgba(0, 0, 0, 0.5);
+                                    transform: translateY(-10px);
+                                }
+                                p:nth-child(3) {
+                                    margin-top: 0px;
+                                    margin-left: 45px;
+                                    color: #03a803;
+                                    font-weight: 700;
+                                    font-size: 20px;
+                                    transform: translateY(-10px);
+                                    span {
+                                        color: black;
+                                        font-weight: 400;
+                                        font-size: 16px;
+                                    }
+                                }
+                            }
+                        }
+                        .ustun_5 {
+                            border-radius: 5px;
+                            height: 120px;
+                            overflow: hidden;
+                            background-image: url(./images/quti.png);
+                            background-size: 130px;
+                            background-repeat: no-repeat;
+                            box-shadow: 0px 4px 4px 0px 4px 4px rgba(0, 0, 0, 0.25);
+                            margin-left: 40px;
+                            .aylana_2 {
+                                background-color: white;
+                                width: 170px;
+                                height: 111px;
+                                clip-path: circle(94.5% at 95% 100%);
+                                h5 {
+                                    margin-bottom: 0px;
+                                    margin-left: 60px;
+                                    padding-top: 40px;
+                                    font-weight: 700;
+                                    font-size: 18px;
+                                    transform: translateY(-10px);
+                                }
+                                p:nth-child(2) {
+                                    margin-top: 0px;
+                                    margin-bottom: 0px;
+                                    margin-left: 45px;
+                                    color: rgba(0, 0, 0, 0.5);
+                                    transform: translateY(-10px);
+                                }
+                                p:nth-child(3) {
+                                    margin-top: 0px;
+                                    margin-left: 45px;
+                                    color: #03a803;
+                                    font-weight: 700;
+                                    font-size: 20px;
+                                    transform: translateY(-10px);
+                                    span {
+                                        color: black;
+                                        font-weight: 400;
+                                        font-size: 16px;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    .qator_4 {
+                        .ustun_6 {
+                            margin-top: 40px;
+                            color: #333333;
+                            margin-bottom: 20px;
+                        }
+                    }
+                    .qator_5 {
+                        .ustun_7 {
+                            height: 40px;
+                            color: #ffffff;
+                            font-weight: 600;
+                            transition: all 0.5s ease;
+                        }
+                        .ustun_7:hover {
+                            transform: scale(1.1);
+                        }
+                        .ustun_8 {
+                            img {
+                                width: 120px;
+                                transform: translate(70px, -40px);
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    .muvaffaqiyat {
+        h3 {
+            text-align: center;
+        }
+        .parag_1 {
+            text-align: center;
+            width: 60%;
+            margin: 15px auto;
+        }
+        .qator_6 {
+            .ustun_9 {
+                .chap {
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
+                    margin-bottom: 30px;
+                    img {
+                        width: 130px;
+                        margin-right: 20px;
+                    }
+                    .content {
+                        height: 70px;
+                    }
+                }
+            }
+            .ustun_10 {
+                .lider {
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
+                    margin-bottom: 30px;
+                    img {
+                        width: 130px;
+                        margin-right: 20px;
+                    }
+                    .content_right {
+                        height: 70px;
+                    }
+                }
+            }
+        }
+    }
+    .tarkib {
+        margin-top: 30px;
+        .qator_7 {
+            .ustun_11 {
+                img {
+                    margin-top: 110px;
+                }
+            }
+            .ustun_13 {
+                .tarkib_title {
+                    font-family: serif;
+                    font-weight: 900;
+                    color: #333333;
+                }
+                .parag_6 {
+                    color: black;
+                    opacity: 0.8;
+                    border-bottom: 2px solid #03a803;
+                    font-size: 12px;
+                    width: 356px;
+                    margin-bottom: 50px;
+                }
+                .qator_8 {
+                    .ustun_14 {
+                        .parag_7 {
+                            margin-bottom: 5px;
+                            font-size: 12px;
+                        }
+                        .parag_8 {
+                            font-size: 12px;
+                            margin-bottom: 2px;
+                            margin-top: 20px;
+                        }
+                        .parag_9 {
+                            font-size: 12px;
+                            margin-bottom: 0px;
+                            margin-top: 20px;
+                        }
+                        .parag_10 {
+                            font-size: 12px;
+                            margin-bottom: 0px;
+                            margin-top: 20px;
+                        }
+                        h4 {
+                            color: black;
+                            font-size: 14px;
+                        }
+                        h3 {
+                            color: #03a803;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    .namuna {
+        margin-top: 50px;
+        .namuna_title {
+            text-align: center;
+            color: #333333;
+            font-size: 28px;
+            font-family: serif;
+            font-weight: 900;
+        }
+        .parag_10 {
+            text-align: center;
+            width: 70%;
+            margin: 0 auto;
+            color: #333333;
+        }
+        .qator_9 {
+            margin-top: 25px;
+            .ustun_15 {
+                img {
+                    height: 388px;
+                }
+            }
+            .ustun_16 {
+                .my-m-top {
+                    margin-top: 25px;
+                }
+                img {
+                    height: 180px;
+                }
+            }
+            .ustun_17 {
+                .my-width {
+                    width: 428px;
+                }
+                img {
+                    height: 180px;
+                }
+                .qator_9 {
+                    .ustun_18 {
+                        img {
+                            height: 180px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    .hamkorlarimiz {
+        // background-image: url(./images/Vectorcontact-bg.svg);
+        // background-repeat: no-repeat;
+        // margin-top: 60px;
+        // background-size: 400px;
+        // background-position-y: 400px;
+        // background-position-x: -200px;
+        // height: 900px;
+        // background-image: none;
+
+        .parag_11 {
+            text-align: left;
+            width: 500px;
+            margin-bottom: 25px;
+            margin-top: 20px;
+        }
+        .hamkorlarimiz_title {
+            font-family: serif;
+            font-weight: 900;
+            margin-top: 0px;
+        }
+        .qator_10 {
+            margin-top: 50px;
+            .ustun_18 {
+                .qator_11 {
+                    .ustun_19 {
+                        img {
+                            width: 130px;
+                            height: 100px;
+                            margin: 15px 15px 15px 0px;
+                            background: #ffffff;
+                            box-shadow: 0px 14px 22px rgba(0, 0, 0, 0.08);
+                        }
+                    }
+                }
+            }
+            .ustun_20 {
+                margin-top: 50px;
+                img {
+                    width: 450px;
+                    transform: translate(-70px, 40px);
+                }
+            }
+        }
+        .social {
+            margin-top: 120px;
+            background: #ffffff;
+            box-shadow: 0px 14px 22px rgba(0, 0, 0, 0.08);
+            .qator_12 {
+                .ustun_21 {
+                    padding: 30px 0px 30px 40px;
+                    .parag_11 {
+                        font-size: 20px;
+                        font-weight: 900;
+                        font-family: serif;
+                    }
+                    .raqam {
+                        color: #03a803;
+                        background: rgba(3, 168, 3, 0.1);
+                        font-family: serif;
+                        margin-top: 10px;
+                        transition: all 0.3s ease;
+                        border: none;
+                        width: 237px;
+                        height: 35px;
+                    }
+                }
+                .ustun_22 {
+                    padding: 30px 0px 30px 40px;
+                    .parag_12 {
+                        font-size: 20px;
+                        font-weight: 900;
+                        font-family: serif;
+                    }
+                    .messenger {
+                        .tarmoq {
+                            border: 1px solid #03a803;
+                            margin-right: 20px;
+                            padding: 5px 20px;
+                            transition: all 0.3s ease;
+                        }
+                        .tarmoq:hover {
+                            transform: scale(1.1);
+                        }
+                    }
+                }
+            }
+        }
+    }
+    .past {
+        margin-top: 80px;
+        .past_navbar {
+            color: #333333;
+            font-weight: 500;
+        }
+        .past_navbar {
+            padding-bottom: 5px;
+            border-bottom: 0px solid white;
+            .menular {
+                li {
+                    margin-left: 30px;
+                }
+            }
+            form {
+                button {
+                    background-color: #4bb543;
+                    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+                    color: #ffffff;
+                }
+            }
+        }
+        .qator_13 {
+            margin-top: 20px;
+            .ustun_23 {
+                font-size: 12px;
+                opacity: 0.8;
+                font-weight: 600;
+                .ustun_23a {
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
+                    div:nth-child(2) {
+                        padding-left: 10px;
+                        font-size: 12px;
+                    }
+                }
+            }
+            .ustun_23:nth-child(2) {
+                font-size: 15px;
+            }
+            .ustun_23:nth-child(3) {
+                a {
+                    font-size: 15px;
+                    color: black;
+                    opacity: 0.8;
+                    text-decoration: none;
+                    margin-left: 5px;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 767px) {
+    .birinchi {
+        .tepa_navbar {
+            .butt-form {
+                margin-left: 28px;
+            }
+        }
+        .malumot {
+            .ikkinchi {
+                display: block;
+                height: 300px;
+                .left {
+                    width: 100%;
+                    h4 {
+                        text-align: center;
+                        padding-top: 20px;
+                        font-size: 18px;
+                        word-spacing: 10px;
+                        font-weight: 700;
+                        margin-left: -23px;
+                    }
+                    p {
+                        font-size: 15px;
+                        text-align: center;
+                    }
+                    .batafsil {
+                        transform: translateX(45%);
+                    }
+                    .karam {
+                        img {
+                            width: 150px;
+                            transform: translate(32px, 0px);
+                        }
+                    }
+                }
+                .gul{
+                    width: 320px;
+                }
+            }
+        }
+        .bizning_mahsulot {
+            margin-top: 520px;
+            .uchinchi {
+                p {
+                    text-align: center;
+                    margin: 20px auto;
+                    width: 90%;
+                }
+                .qator_1 {
+                    background-image: none;
+                    .ustun_1 {
+                        width: 100%;
+                        height: 150px;
+                        margin-bottom: 20px;
+                        .matn_1 {
+                            display: flex;
+                            justify-content: space-between;
+                            .matn_1-quti {
+                                height: 150px;
+                                width: 174px;
+                            }
+                            .matn_1-content {
+                                transform: translate(-30px, 12px);
+                                h3 {
+                                    margin: 0;
+                                }
+                                p:nth-child(2) {
+                                    margin-top: 2px;
+                                }
+                                p:nth-child(3) {
+                                    margin-top: 20px;
+                                }
+                            }
+                        }
+                    }
+                    .ustun_2 {
+                        .qator_2 {
+                            padding: 0;
+                            .ustun_3 {
+                                height: 150px;
+                                .matn_2 {
+                                    .matn_2-quti {
+                                        height: 151px;
+                                    }
+                                    .matn_2-content {
+                                        width: 116px;
+                                        height: 292px;
+                                    }
+                                }
+                            }
+                        }
+                        .qator_3 {
+                            width: 100%;
+                            margin: 0px;
+                            margin-top: 20px;
+                            padding: 0;
+                            display: none;
+
+                            .ustun_4 {
+                                .aylana_1 {
+                                    h5 {
+                                        transform: translateX(-8px);
+                                    }
+                                    p:nth-child(2) {
+                                        margin-left: 40px;
+                                        font-size: 14px;
+                                        margin-top: 12px;
+                                        letter-spacing: -1px;
+                                    }
+                                    p:nth-child(3) {
+                                        margin-left: 33px;
+                                        transform: translateY(-15px);
+                                    }
+                                }
+                            }
+                        }
+                        .qator_4 {
+                            .ustun_6 {
+                                text-align: justify;
+                                width: 100%;
+                            }
+                        }
+                        .qator_5 {
+                            width: 90%;
+                        }
+                    }
+                }
+            }
+        }
+        .muvaffaqiyat {
+            h3 {
+                text-align: center;
+                margin: 10px auto;
+                font-weight: 700;
+            }
+            .parag_1 {
+                text-align: justify;
+                width: 90%;
+            }
+            .qator_6 {
+                margin-top: 50px;
+                .ustun_9 {
+                    .chap {
+                        margin-bottom: 0;
+                        img {
+                            transform: translateY(-40px);
+                        }
+                        .content {
+                            margin-bottom: 150px;
+                            .parag_2 {
+                                text-align: justify;
+                                margin-right: 20px;
+                            }
+                        }
+                    }
+                }
+                .ustun_10 {
+                    .lider {
+                        margin-bottom: 0;
+                        img {
+                            transform: translateY(-40px);
+                        }
+                        .content_right {
+                            margin-bottom: 150px;
+                            .parag_4 {
+                                text-align: justify;
+                                margin-right: 20px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .tarkib {
+            transform: translateY(-100px);
+            .qator_7 {
+                .tarkib_title {
+                    margin-top: 10px;
+                    text-align: center;
+                }
+                .ustun_11 {
+                    .ustun_11-img {
+                        width: 100%;
+                        margin-top: 20px;
+                    }
+                }
+                .ustun_13 {
+                    .parag_6 {
+                        font-size: 14px;
+                        font-weight: 600;
+                        text-align: center;
+                        width: 340px;
+                        margin: 10px auto;
+                        border: none;
+                    }
+                    .qator_8 {
+                        margin-right: 10px;
+                        .ustun_14 {
+                            .parag_7 {
+                                font-size: 14px;
+                            }
+                            h4 {
+                                font-size: 14px;
+                                color: black;
+                                font-weight: bold;
+                                margin-top: 10px;
+                            }
+                            .parag_8 {
+                                font-size: 14px;
+                                margin-top: 15px;
+                            }
+                            .t_01 {
+                                margin-top: 20px;
+                            }
+                            .t_1 {
+                                margin-top: 26px;
+                            }
+                            .t_2 {
+                                margin-top: 37px;
+                            }
+                            .t_3 {
+                                margin-top: 15px;
+                            }
+                            .parag_9 {
+                                font-size: 14px;
+                            }
+                            .t_4 {
+                                margin-top: 20px;
+                            }
+                            .t_5 {
+                                margin-top: 2px;
+                            }
+                            .t_6 {
+                                margin-top: 4px;
+                            }
+                            .parag_10 {
+                                font-size: 14px;
+                            }
+                            .t_7 {
+                                margin-top: 10px;
+                            }
+                            .t_8 {
+                                margin-top: 28px;
+                            }
+                            .mya-1 {
+                                margin-top: 10px;
+                            }
+                            .mya-2 {
+                                margin-top: 34px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .namuna {
+            margin-top: -60px;
+            .namuna_title {
+                line-height: 25px;
+                font-size: 30px;
+            }
+            .parag_10 {
+                text-align: center;
+                width: 90%;
+                font-size: 18px;
+                font-weight: 600;
+            }
+            .qator_9 {
+                .ustun_15 {
+                    img {
+                        height: 300px;
+                        width: 100%;
+                    }
+                }
+                .ustun_16 {
+                    img {
+                        width: 100%;
+                        margin-top: 15px;
+                        height: 200px;
+                    }
+                }
+                .ustun_17 {
+                    .my-width {
+                        width: 100%;
+                        margin-top: 15px;
+                    }
+                }
+                .qator_9 {
+                    .ustun_18 {
+                        img {
+                            width: 100%;
+                            height: 200px;
+                            margin-top: -10px;
+                            margin-bottom: 20px;
+                        }
+                    }
+                }
+            }
+        }
+        .hamkorlarimiz {
+            background-image: none;
+            margin-bottom: 300px;
+            margin-top: 10px;
+            .parag_11 {
+                width: 95%;
+                text-align: justify;
+            }
+            .hamkorlarimiz_title {
+                transform: translateY(30px);
+                margin-top: 50px;
+                text-align: center;
+                font-size: 30px;
+            }
+            .qator_10 {
+                .ustun_18 {
+                    .qator_11 {
+                        .ustun_19 {
+                            padding-left: 14%;
+                            img {
+                                margin-left: 15px;
+                            }
+                        }
+                    }
+                }
+                .ustun_20 {
+                    img {
+                        width: 280px;
+                        transform: translate(40%, -30px);
+                    }
+                }
+            }
+            .social {
+                margin-top: -5px;
+                .qator_12 {
+                    .ustun_21 {
+                        .raqam {
+                            width: 284px;
+                            color: #4bb543;
+                            font-size: 20px;
+                            height: 40px;
+                            padding-left: 15px;
+                            border-radius: 5px;
+                            margin-left: 17%;
+                        }
+
+                        .parag_11 {
+                            text-align: center;
+                            font-family: sans-serif;
+                            font-weight: 600;
+                            font-size: 22px;
+                            transform: translateX(-13px);
+                        }
+                    }
+                    .ustun_22 {
+                        .parag_12 {
+                            margin-top: -45px;
+                            transform: translateX(-20px);
+                            letter-spacing: 1px;
+                            font-family: sans-serif;
+                            font-weight: 600;
+                            font-size: 22px;
+                            text-align: center;
+                        }
+                        .messenger {
+                            display: grid;
+                            .tarmoq {
+                                width: 50%;
+                                font-size: 20px;
+                                font-weight: 600;
+                                margin-left: 20%;
+                                margin-bottom: 10px;
+                                border-radius: 10px;
+                                img {
+                                    width: 25px;
+                                    margin-left: -15px;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .past {
+            margin-top: -375px;
+            .past_navbar {
+                margin-top: 370px;
+                ul {
+                    margin-top: 20px;
+                    li {
+                        a {
+                            font-size: 20px;
+                        }
+                    }
+                }
+            }
+            .qator_13 {
+                .ustun_23 {
+                    margin-top: 10px;
+                    font-size: 18px;
+                    .past-email {
+                        width: 30px;
+                        margin-right: 15px;
+                    }
+                    .past-tel {
+                        width: 25px;
+                        margin-right: 20px;
+                    }
+                }
+                .ustun_23:nth-child(2) {
+                    font-size: 18px;
+                }
+                .ustun_23:nth-child(3) {
+                    .bio-email {
+                        font-size: 19px;
+                    }
+                }
+                .ustun_23:nth-child(4) {
+                    .ustun_23a {
+                        div:nth-child(1) {
+                            .past-map {
+                                width: 38px;
+                            }
+                        }
+                        div:nth-child(2) {
+                            font-size: 19px;
+                            line-height: 20px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 361px) {
+    .birinchi {
+        .tepa_navbar {
+            .butt-form {
+                margin-left: 28px;
+            }
+        }
+        .malumot {
+            .ikkinchi {
+                display: block;
+                height: 300px;
+                .left {
+                    width: 100%;
+                    h4 {
+                        text-align: center;
+                        padding-top: 20px;
+                        font-size: 15px;
+                        word-spacing: 10px;
+                        font-weight: 700;
+                        margin-left: -23px;
+                    }
+                    p {
+                        font-size: 15px;
+                    }
+                    .batafsil {
+                        margin: 0px auto;
+                    }
+                    .karam {
+                        img {
+                            width: 120px;
+                            transform: translateX(38px);
+                        }
+                    }
+                }
+                .gul {
+                    transform: translateX(-40px);
+                    width: 280px;
+                }
+            }
+        }
+        .bizning_mahsulot {
+            margin-top: 480px;
+            .uchinchi {
+                p {
+                    text-align: justify;
+                    margin: 20px auto;
+                    width: 90%;
+                }
+                .qator_1 {
+                    background-image: none;
+                    .ustun_1 {
+                        width: 100%;
+                        height: 150px;
+                        margin-bottom: 20px;
+                        .matn_1 {
+                            display: flex;
+                            .matn_1-quti {
+                                height: 150px;
+                                width: 174px;
+                            }
+                            .matn_1-content {
+                                transform: translate(7px, 12px);
+                                h3 {
+                                    margin: 0;
+                                }
+                                p:nth-child(2) {
+                                    margin-top: 2px;
+                                }
+                                p:nth-child(3) {
+                                    margin-top: 20px;
+                                }
+                            }
+                        }
+                    }
+                    .ustun_2 {
+                        .qator_2 {
+                            padding: 0;
+                            .ustun_3 {
+                                height: 150px;
+                                .matn_2 {
+                                    .matn_2-quti {
+                                        height: 151px;
+                                    }
+                                    .matn_2-content {
+                                        width: 116px;
+                                        height: 292px;
+                                    }
+                                }
+                            }
+                        }
+                        .qator_3 {
+                            width: 100%;
+                            margin: 0px;
+                            margin-top: 20px;
+                            padding: 0;
+                            display: none;
+
+                            .ustun_4 {
+                                .aylana_1 {
+                                    h5 {
+                                        transform: translateX(-8px);
+                                    }
+                                    p:nth-child(2) {
+                                        margin-left: 40px;
+                                        font-size: 14px;
+                                        margin-top: 12px;
+                                        letter-spacing: -1px;
+                                    }
+                                    p:nth-child(3) {
+                                        margin-left: 33px;
+                                        transform: translateY(-15px);
+                                    }
+                                }
+                            }
+                        }
+                        .qator_4 {
+                            .ustun_6 {
+                                text-align: justify;
+                                width: 100%;
+                            }
+                        }
+                        .qator_5 {
+                            width: 90%;
+                        }
+                    }
+                }
+            }
+        }
+        .muvaffaqiyat {
+            h3 {
+                text-align: center;
+                margin: 10px auto;
+                font-weight: 700;
+            }
+            .parag_1 {
+                text-align: justify;
+                width: 90%;
+            }
+            .qator_6 {
+                .ustun_9 {
+                    .chap {
+                        .content {
+                            margin-bottom: 150px;
+                            .parag_2 {
+                                text-align: justify;
+                                margin-right: 20px;
+                            }
+                        }
+                    }
+                }
+                .ustun_10 {
+                    .lider {
+                        .content_right {
+                            margin-bottom: 150px;
+                            .parag_4 {
+                                text-align: justify;
+                                margin-right: 20px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .tarkib {
+            transform: translateY(-100px);
+            .qator_7 {
+                .tarkib_title {
+                    margin-top: 10px;
+                    text-align: center;
+                }
+                .ustun_11 {
+                    .ustun_11-img {
+                        width: 100%;
+                    }
+                }
+                .ustun_13 {
+                    .parag_6 {
+                        font-size: 14px;
+                        font-weight: 600;
+                        text-align: center;
+                        width: 340px;
+                        margin: 10px auto;
+                        border: none;
+                    }
+                    .qator_8 {
+                        margin-right: 10px;
+                        .ustun_14 {
+                            .parag_7 {
+                                font-size: 14px;
+                            }
+                            h4 {
+                                font-size: 14px;
+                                color: black;
+                                font-weight: bold;
+                                margin-top: 10px;
+                            }
+                            .parag_8 {
+                                font-size: 14px;
+                                margin-top: 15px;
+                            }
+                            .t_01 {
+                                margin-top: 20px;
+                            }
+                            .t_1 {
+                                margin-top: 26px;
+                            }
+                            .t_2 {
+                                margin-top: 37px;
+                            }
+                            .t_3 {
+                                margin-top: 15px;
+                            }
+                            .parag_9 {
+                                font-size: 14px;
+                            }
+                            .t_4 {
+                                margin-top: 20px;
+                            }
+                            .t_5 {
+                                margin-top: 20px;
+                            }
+                            .t_6 {
+                                margin-top: 43px;
+                            }
+                            .parag_10 {
+                                font-size: 14px;
+                            }
+                            .t_7 {
+                                margin-top: 10px;
+                            }
+                            .t_8 {
+                                margin-top: 52px;
+                            }
+                            .mya-1 {
+                                margin-top: 25px;
+                            }
+                            .mya-2 {
+                                margin-top: 40px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .namuna {
+            margin-top: -60px;
+            .namuna_title {
+                line-height: 25px;
+                font-size: 30px;
+            }
+            .parag_10 {
+                text-align: center;
+                width: 90%;
+                font-size: 18px;
+                font-weight: 600;
+            }
+            .qator_9 {
+                .ustun_15 {
+                    img {
+                        height: 300px;
+                        width: 100%;
+                    }
+                }
+                .ustun_16 {
+                    img {
+                        width: 100%;
+                        margin-top: 15px;
+                        height: 200px;
+                    }
+                }
+                .ustun_17 {
+                    .my-width {
+                        width: 100%;
+                        margin-top: 15px;
+                    }
+                }
+                .qator_9 {
+                    .ustun_18 {
+                        img {
+                            width: 100%;
+                            height: 200px;
+                            margin-top: -10px;
+                            margin-bottom: 20px;
+                        }
+                    }
+                }
+            }
+        }
+        .hamkorlarimiz {
+            background-image: none;
+            margin-bottom: 300px;
+            margin-top: 10px;
+            .parag_11 {
+                width: 95%;
+                text-align: justify;
+            }
+            .hamkorlarimiz_title {
+                transform: translateY(30px);
+                margin-top: 50px;
+                text-align: center;
+                font-size: 30px;
+            }
+            .qator_10 {
+                .ustun_18 {
+                    .qator_11 {
+                        .ustun_19 {
+                            img {
+                                margin-left: 20%;
+                            }
+                        }
+                    }
+                }
+                .ustun_20 {
+                    img {
+                        width: 280px;
+                        transform: translate(20px, -30px);
+                    }
+                }
+            }
+            .social {
+                .qator_12 {
+                    .ustun_21 {
+                        .raqam {
+                            width: 240px;
+                            color: #4bb543;
+                            font-size: 20px;
+                            height: 40px;
+                            margin-left: 5%;
+                            border-radius: 5px;
+                        }
+
+                        .parag_11 {
+                            text-align: center;
+                            font-family: sans-serif;
+                            font-weight: 600;
+                            font-size: 22px;
+                            transform: translateX(-13px);
+                        }
+                    }
+                    .ustun_22 {
+                        .parag_12 {
+                            margin-top: -45px;
+                            transform: translateX(-20px);
+                            letter-spacing: 1px;
+                            font-family: sans-serif;
+                            font-weight: 600;
+                            font-size: 22px;
+                            text-align: center;
+                        }
+                        .messenger {
+                            display: grid;
+                            .tarmoq {
+                                width: 50%;
+                                font-size: 20px;
+                                font-weight: 600;
+                                margin-left: 20%;
+                                margin-bottom: 10px;
+                                border-radius: 10px;
+                                img {
+                                    width: 25px;
+                                    margin-left: -15px;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .past {
+            margin-top: -345px;
+            .past_navbar {
+                margin-top: 370px;
+                ul {
+                    margin-top: 20px;
+                    li {
+                        a {
+                            font-size: 20px;
+                        }
+                    }
+                }
+            }
+            .qator_13 {
+                .ustun_23 {
+                    margin-top: 10px;
+                    font-size: 18px;
+                    .past-email {
+                        width: 30px;
+                        margin-right: 15px;
+                    }
+                    .past-tel {
+                        width: 25px;
+                        margin-right: 20px;
+                    }
+                }
+                .ustun_23:nth-child(2) {
+                    font-size: 18px;
+                }
+                .ustun_23:nth-child(3) {
+                    .bio-email {
+                        font-size: 19px;
+                    }
+                }
+                .ustun_23:nth-child(4) {
+                    .ustun_23a {
+                        div:nth-child(1) {
+                            .past-map {
+                                width: 38px;
+                            }
+                        }
+                        div:nth-child(2) {
+                            font-size: 19px;
+                            line-height: 20px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
